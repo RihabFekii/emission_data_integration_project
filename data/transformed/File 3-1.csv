@@ -1,0 +1,51 @@
+Activity Name;Unit ;kgCO2e;kgCO2;kgCH4;kgN2O;Assesment Report;Scope;LCA;Sector;Category;Year Valid From;Region
+Motor vehicle brakes and brake systems;cad;81.8233610534074;3.44822865310241;2.90277363588183;0.000000976925982885818;AR4;Unknown;primary_production-transport-manufacturing;materials and manufacturing;Vehicle Parts;2020;US-MN
+Flour and other grain mill products;cad;112.452370087334;2.42415093294692;4.07504635481284;0.00000787029775922214;AR4;Unknown;primary_production-transport-manufacturing;consumer goods and services;Food/Beverages/Tobacco;2020;US-MN
+Boats and personal watercraft;cad;32.3612754368602;9.02136929593131;0.864372920897015;0.00000734910683817262;AR4;Unknown;primary_production-transport-manufacturing;transport;Vehicles;2020;US-NJ
+Marine fuel oil;tonne;6.05845220712262;6.05709269835494;0;0.00000543803507071201;AR4;Unknown;use;energy;Fuel;2022;US-NY
+Eggs cardboard box;kg;100.819764059153;2.66327447897246;3.63538423199791;0.00000446126494914705;AR4;Unknown;primary_production-transport;consumer goods and services;Food/Beverages/Tobacco;2022;US-CA
+Paper waste for treatment: incineration;eur;75.9187442536617;9.87658704690372;2.4459761357489;0.00000320616615066681;AR4;Unknown;unknown;waste;Waste Management;2019;US-CA
+Aluminium - alloys - hollow profiles;kg;129.73122726548;0.017600161710255;4.80420721034225;0.000000129698116903308;AR4;Unknown;manufacturing;materials and manufacturing;Metals;2023;US-NJ
+Grey clinker;kg;7.40033426893155;7.39957076148498;0;0.00000305402978628653;AR4;Unknown;manufacturing;materials and manufacturing;Building Materials;2023;US-CA
+GCP - Embodied emissions - c2-standard-60 - Cascade Lake;instance-hour;36.1185700250865;8.60331897372579;1.01901288819803;0.00000761228005590687;AR4;Unknown;primary_production-transport-manufacturing-end_of_life;information and communication;Cloud Computing - CPU;2021;US-CA
+Biogasoline;eur;120.010328172458;9.11092171644479;4.1073351171065;0.00000543317655075727;AR4;Unknown;unknown;energy;Fuel;2019;US-NY
+Gasoline passenger cars (1983 models);mile;50.4809151825987;8.79103185547919;1.54405277899959;0.00000183317652201007;AR4;Unknown;use;transport;Vehicles;2022;US-TX
+Stainless steel - flat-rolled <600mm hot-rolled;kg;18.6167735153174;2.72399145509504;0.588557964516738;0.00000686807308166937;AR4;Unknown;manufacturing;materials and manufacturing;Metals;2023;US-NJ
+Vegetables / fruits / nuts;eur;104.622067187274;9.52510778127183;3.52202688749885;0.0000089337741349491;AR4;Unknown;unknown;agriculture/hunting/forestry/fishing;Arable Farming;2019;US-MN
+Other social services;nzd;53.2851746090061;0.285434351408278;1.9628714728149;0.00000884196638156451;AR4;Unknown;unknown;health and social care;Social Care;2019;US-NY
+Distribution and trade of electricity (services);eur;105.01987946852;7.61152869836631;3.60770032220285;0.00000176828270502404;AR4;Unknown;unknown;energy;Energy Services;2019;US-MN
+Food waste for treatment: composting and land application;eur;75.8605715907681;7.78127849621488;2.52142210433485;0.00000358511004927701;AR4;Unknown;unknown;waste;Waste Management;2019;US-NY
+Translation and interpretation services;usd;37.5702120707602;1.94684193847496;1.3193471764205;0.00000398547572724568;AR4;Unknown;primary_production-transport-manufacturing;organizational activities;Professional Services and Activities;2019;US-NJ
+Household residual waste disposal (composting);tonne;107.382896726418;2.78778325462176;3.87383974235518;0.00000576171282439741;AR4;Unknown;end_of_life;waste;General Waste;2021;US-MN
+Rubber and plastic products;eur;108.939405205203;8.23170315799302;3.72985948937087;0.00000598333678716646;AR4;Unknown;unknown;materials and manufacturing;Plastics and Rubber Products;2019;US-CA
+Hogs;cad;8.11692114508724;8.11544402322343;0;0.00000590848745525541;AR4;Unknown;primary_production-transport-manufacturing;agriculture/hunting/forestry/fishing;Livestock Farming;2020;US-MN
+Electricity supplied from nuclear power plant;kwh;8.90574010970376;8.90431478535839;0;0.00000570129738148156;AR4;Unknown;primary_production-transport-use;energy;Electricity;2015;US-CA
+PP waste disposal  (incl. forming) - open-loop;tonne;141.393414121817;9.38704564576043;4.88905197037838;0.00000786110336259991;AR4;Unknown;end_of_life;waste;Plastic Waste;2021;US-TX
+Water transportation support / maintenance and repair services;cad;58.4907066843789;4.61852689574976;1.99523004569666;0.00000387421927697512;AR4;Unknown;primary_production-transport-manufacturing;transport;Transport Services and Warehousing;2020;US-CA
+R403A;kg;119.675266955524;6.0245247055038;4.20925988373272;0.00000290155694490999;AR4;Unknown;fugitive_release;refrigerants and fugitive gases;Refrigerants and Fugitive Gases;2022;US-MN
+Hotel stay;room-night;64.0576733643744;2.46297158948083;2.28123260627235;0.00000568562216015641;AR4;Unknown;unknown;restaurants and accommodation;Accommodation;2022;US-NY
+Tires;cad;46.0425018952979;4.97692888646312;1.52093210434069;0.0000016247665448108;AR4;Unknown;primary_production-transport-manufacturing;materials & manufacturing;Plastics and Rubber Products;2020;US-NJ
+Rigid truck (7.5 t - 12 t) - average / mixed load - CNG;tonne-km;76.8969648138506;4.4300836645828;2.68393052677352;0.00000302770553080606;AR4;Unknown;primary_production-transport-use;transport;Road Freight;2023;US-NY
+Ethane;gal (us);102.334941567104;6.60043487046897;3.54566994780401;0.00000567242370933291;AR4;Unknown;use;energy;Fuel;2023;US-CA
+Artic truck 34 - 40 t - Container transport - Refrig/temp controlled - Diesel 5% biodiesel blend;tonne-km;6.36399621528561;6.36399621528561;0;;AR4;Unknown;use;transport;Road Freight;2019;US-CA
+Plastic resins;cad;107.432772082808;1.51718265441486;3.92279781304705;0.000000193904492189784;AR4;Unknown;primary_production-transport-manufacturing;materials and manufacturing;Plastics and Rubber Products;2020;US-NJ
+PET waste (incl. forming) disposal - closed-loop;tonne;72.113746746619;8.17066844400208;2.36826215935618;;AR4;Unknown;end_of_life;waste;Plastic Waste;2021;US-TX
+PHEV car (medium) - UK electricity T&D for EVs;km;124.82473076747;1.18324683764564;4.57930450471473;0.00000104921010627264;AR4;Unknown;electricity_t&d;transport;Vehicles;2024;US-TX
+Petrol car (dual-purpose 4X4) - Passenger vehicles & travel land;km;96.3051203987366;6.65969097246068;3.32019910177642;0.000000214713250296537;AR4;Unknown;primary_production-transport;transport;Vehicles;2021;US-TX
+Hotel stay (3 star);room-night;81.138327012126;2.78004832442831;2.90215846991473;;AR4;Unknown;unknown;restaurants and accommodation;Accommodation;2022;US-MN
+Hotel stay (3 star);room-night;34.7523953799633;8.88373791418802;0.958047379316301;0.00000551289694040705;AR4;Unknown;unknown;restaurants and accommodation;Accommodation;2022;US-TX
+HGV refrigerated (all diesel) - Rigid (>17 tonnes) - Average Laden - Managed assets (vehicles);km;104.44909560601;9.31204710778228;3.52353056551609;0.00000689291717446327;AR4;Unknown;use;transport;Vehicles;2021;US-NJ
+Fugitive methane emissions from coal mining;tonne;84.2667729670614;1.76574662367404;3.0555588284774;0.00000375189799066527;AR4;Unknown;primary_production;materials and manufacturing;Mined Materials;2021;US-NJ
+Sugar cane/sugar beet;eur;1.4713089905591;1.46951486369958;0;0.00000717650743809193;AR4;Unknown;unknown;agriculture/hunting/forestry/fishing;Arable Farming;2019;US-CA
+Biopropane;kg;73.8978952369824;5.12913540110726;2.54699110503241;;AR4;Unknown;primary_production-transport;energy;Fuel;2021;US-NJ
+Plastics waste disposal - combustion;tonne;14.5010769493617;9.91134496987876;0.169932124495626;0.00000625847240387569;AR4;Unknown;end_of_life;waste;Plastic Waste;2022;US-CA
+Furniture/other manufactured goods (not elsewhere specified);eur;6.22770621577051;6.22577319059862;0;0.00000773210068757087;AR4;Unknown;unknown;consumer goods and services;Furnishings and Household;2019;US-NJ
+Hydrogen passenger car large;passenger-km;98.199194164421;1.35035810257839;3.58697644489265;0.00000188819896399073;AR4;Unknown;primary_production-transport-use;transport;Road Travel;2020;US-TX
+Basic iron and steel and of ferroalloys and first products thereof;eur;132.020923835451;9.31889758760029;4.54443928093093;0.00000866265086077946;AR4;Unknown;unknown;materials and manufacturing;Metals;2019;US-NY
+White spirit/SBP;eur;1.33205468382261;1.33052365535691;0;0.00000612411386278109;AR4;Unknown;unknown;materials and manufacturing;Chemical Products;2019;US-TX
+Cold-rolled iron or steel products;cad;9.82351960347536;2.80460781250916;0.259943456249903;0.00000175388887533489;AR4;Unknown;primary_production-transport-manufacturing;materials and manufacturing;Metals;2020;US-TX
+Iron non-alloy steel - flat-rolled <600mm clad plated coated;kg;97.8829821682492;1.47049735600329;3.57081689272284;0.00000171483491731799;AR4;Unknown;manufacturing;materials and manufacturing;Metals;2023;US-NY
+Other professional / scientific and technical services;cad;59.6037225662422;0.0577969823099367;2.20534937890631;0.00000596941384785183;AR4;Unknown;primary_production-transport-manufacturing;consumer goods and services;Professional Services;2020;US-NJ
+Nonferrous metal die-casting foundries;usd;82.0978604015673;7.35006787538342;2.7683626219309;0.0000080069361981387;AR4;Unknown;primary_production-transport-manufacturing;materials and manufacturing;Metals;2022;US-NJ
+Hotel stay (3 star);room-night;102.946648538909;2.43308581832482;3.72268214436563;0.00000457929085090846;AR4;Unknown;unknown;restaurants and accommodation;Accommodation;2022;US-TX
+Radio stations;usd;22.6692026403601;3.38781887113295;0.714090486548811;0.00000376252963712723;AR4;Unknown;primary_production-transport-manufacturing;consumer goods and services;Recreation and Culture;2019;US-CA

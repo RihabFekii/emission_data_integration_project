@@ -1,0 +1,51 @@
+Activity Name;Activity Name;Unit ;Emmision (kgCO2e);kgCO2;kgCH4;kgN2O;Assesment Report;Scope;Life Cylce Assesment;Validity Year;Validity Region
+Europe (North & Med) to- from Oceania (via Suez / via Panama) - Container ship (dry);Transport/Sea Freight;TEU-km;22.2817190941035;4.2351990053103;0.668389632918267;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Rigid truck 3.5-7.5t - Average/mixed load - Diesel;Transport/Road Freight;tonne-km;29.7457184624098;3.08544478522706;0.987417543599361;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+Container ship - reefer (refrigerated);Transport/Sea Freight;TEU-km;6.74503180188009;3.09647927636773;0.135131575018976;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Freight logistics - transshipment - mixed;Transport/Transport Services and Warehousing;tonne;34.6848503311002;8.82926250797716;0.957614363819373;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+Asia to-from North America WC - Container ship - reefer (refrigerated);Transport/Sea Freight;TEU-km;13.8500784546978;7.34732365218852;0.240842770463307;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+Air freight (<1500 km) - freighter - RP1678;Transport/Air Freight;tonne-km;35.5141774091581;8.98998826247189;0.982377375803192;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Asia to-from Africa - Container ship - reefer (refrigerated);Transport/Sea Freight;TEU-km;22.1627803709086;0.758479374504432;0.79275188875571;not-supplied;AR6;2;use;2023;GLOBAL
+Rigid truck 7.5-12t - Average/mixed load - Diesel;Transport/Road Freight;tonne-km;16.4928622224284;2.28437980058178;0.526240089698024;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+Rail freight (electric traction) - trailer only on train - distribution losses;Transport/Rail Freight;tonne-km;29.3302629624894;8.68203281211147;0.764749264828813;not-supplied;AR6;2;electricity_t&d;2023;GLOBAL
+North America EC/Gulf/WC to-from Middle East/India - Container ship - reefer (refrigerated);Transport/Sea Freight;TEU-km;10.5352439551585;1.34957779539443;0.34020985776904;not-supplied;AR6;2;use;2023;GLOBAL
+Road freight - Specialized;Transport/Road Freight;tonne-km;26.3481127964411;6.60839387213221;0.731100700900329;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+General cargo 10000-19999 dwt - VLSFO;Transport/Sea Freight;tonne-km;26.5764585482351;1.7444376576366;0.919704477429574;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+Ro-Ro 5000-9999 dwkt - VLSFO;Transport/Sea Freight;tonne-km;4.08918130075482;1.34576629701053;0.10160796310164;not-supplied;AR6;2;use;2023;GLOBAL
+Oil tanker 20000-59999 dwt - HFO;Transport/Sea Freight;tonne-km;16.7017386955468;9.44708399677561;0.268690914769303;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Bulk carrier 60000-99999 dwt - VLSFO;Transport/Sea Freight;tonne-km;17.8332687268637;2.23150842289884;0.577842974220921;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Ro-Ro 10000-14999 dwt - HFO;Transport/Sea Freight;tonne-km;28.0242774515385;1.70890794392991;0.974643315096616;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+E;Transport/Sea Freight;TEU-km;13.1788026125631;0.878151867644303;0.455579657219213;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Other liquids tankers <999 dwt - MDO;Transport/Sea Freight;tonne-km;30.9884327906117;4.01065958138496;0.999176785526915;not-supplied;AR6;2;use;2023;GLOBAL
+Other liquids tankers >1000 dwt - VLSFO;Transport/Sea Freight;tonne-km;11.6887533058647;0.0871636140359378;0.42968850710477;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Europe (North & Med) to- from Africa - Container ship - reefer (refrigerated);Transport/Sea Freight;TEU-km;10.8645267481034;7.14507085616342;0.137757625627405;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+Intra Mediterranean/ Black Sea - Container ship - reefer (refrigerated);Transport/Sea Freight;TEU-km;28.7473760992818;3.69825377125542;0.927745271408383;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Articulated truck 60-72t - Container - Diesel;Transport/Road Freight;tonne-km;24.4558076662877;0.189864971404288;0.898738618329014;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+Articulated truck <40t SI engine - Container transport - LNG;Transport/Road Freight;tonne-km;11.7792341748938;9.43024364764563;0.0869996491573414;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+Intra Middle East/India - Container ship - reefer (refrigerated);Transport/Sea Freight;TEU-km;26.7782239104;7.49802000168185;0.714081626248821;not-supplied;AR6;2;use;2023;GLOBAL
+Liquefied gas tanker <49999 cbm - VLSFO;Transport/Sea Freight;tonne-km;35.1100719941212;8.87738845752663;0.971580871725723;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Articulated truck 44-60t - Container - Diesel;Transport/Road Freight;tonne-km;12.3913268051585;2.07183912645707;0.382203247359314;not-supplied;AR6;2;use;2023;GLOBAL
+Road freight - LTL/Dry Van;Transport/Road Freight;tonne-km;24.6623768235408;0.35977505554136;0.900096361777758;not-supplied;AR6;2;use;2023;GLOBAL
+Oil tanker 10000-19999 dwt - MDO;Transport/Sea Freight;tonne-km;12.1194519990254;4.52619411496864;0.281231773483584;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+Articulated truck <34t - Average/mixed load - Diesel;Transport/Road Freight;tonne-km;28.8282022802059;4.06551686364173;0.917136496909785;not-supplied;AR6;2;use;2023;GLOBAL
+North Europe to-from North America WC - Container ship - reefer (refrigerated);Transport/Sea Freight;TEU-km;16.2220958326423;4.20549342433147;0.445059348455956;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+Liquefied gas tanker 100000-199999 cbm - MDO;Transport/Sea Freight;tonne-km;1.70169796655245;1.26364924166842;0.0162240268475564;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Rail freight (diesel traction) - container transport;Transport/Rail Freight;tonne-km;10.7917964738265;8.29342493226323;0.0925322793171578;not-supplied;AR6;2;use;2023;GLOBAL
+Panama Trade - Container ship (dry);Transport/Sea Freight;TEU-km;6.04691320120952;0.938534071109048;0.189199227040758;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Refrigerated bulk >10000 dwt - HFO;Transport/Sea Freight;tonne-km;30.1380865347118;9.23283531269608;0.774268563778361;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Liquefied gas tanker >200000 cbm - MDO;Transport/Sea Freight;tonne-km;26.5352742644839;7.97587561625894;0.687385135119445;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Liquefied gas tanker 50000-99999 cbm - MDO;Transport/Sea Freight;tonne-km;23.3902012230859;4.51011950102077;0.699262286002412;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+Road freight - Refrigerated;Transport/Road Freight;tonne-km;11.9478497781494;2.65391557621175;0.344219785256951;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Oil tanker >200000 dwt - VLSFO;Transport/Sea Freight;tonne-km;12.4104781433266;8.53451488132768;0.143554194888849;not-supplied;AR6;2;use;2023;GLOBAL
+Liquefied gas tanker >200000 cbm - VLSFO;Transport/Sea Freight;tonne-km;19.839362763024;4.98889227003095;0.550017425666409;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+North Europe to-from Mediterranean/Black Sea - Container ship - reefer (refrigerated);Transport/Sea Freight;TEU-km;18.3330374380395;8.73896678129371;0.355335950249846;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Chemical tanker >40000 dwt - HFO;Transport/Sea Freight;tonne-km;6.66357613160249;4.81486966369355;0.0684706099225534;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+Other liquids tankers <999 dwt - HFO;Transport/Sea Freight;tonne-km;21.2422743887422;8.83785112727383;0.459423083758087;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Freight logistics - transshipment - ambient;Transport/Transport Services and Warehousing;tonne;32.7156244528048;9.33961400446867;0.86577816475319;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+General cargo 5000-9999 dwt - HFO;Transport/Sea Freight;tonne-km;23.7663888884082;8.32003504388619;0.572087179426742;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Liquefied gas tanker 50000-99999 cbm - MDO;Transport/Sea Freight;tonne-km;16.3040263115289;4.38520166917159;0.441437949716936;not-supplied;AR6;2;use;2023;GLOBAL
+SE Asia to-from NE Asia - Container ship (dry);Transport/Sea Freight;TEU-km;14.2132192382551;3.56156067304054;0.394505872785724;not-supplied;AR6;2;use;2023;GLOBAL
+Other - Container ship (dry);Transport/Sea Freight;TEU-km;11.2249465189409;5.19597651633732;0.223295185281615;not-supplied;AR6;2;primary_production-transport;2023;GLOBAL
+Trans-Atlantic - Container ship (dry);Transport/Sea Freight;TEU-km;23.4540480398249;0.681677135111882;0.843421144619001;not-supplied;AR6;2;use;2023;GLOBAL
+Liquefied gas tanker 50000-99999 cbm - VLSFO;Transport/Sea Freight;tonne-km;26.5677677058926;1.97223793736532;0.910945546982491;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
+Intra South America - Container ship - reefer (refrigerated);Transport/Sea Freight;TEU-km;19.4628525888538;0.601499933806608;0.6985686168536;not-supplied;AR6;2;primary_production-transport-use;2023;GLOBAL
