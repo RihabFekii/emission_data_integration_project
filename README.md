@@ -21,3 +21,8 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 - **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes.
 - **Gold Layer**: business-ready data modeled into a flat table to be used in AI algoriths.
 
+## 🔗 Data Integration 
+
+The goal of this project is to integrate the three tables using the union mechanism to have one flat table as shown in the integration diagram below: 
+
+![Integration Diagram](docs/data_integration.png)
